@@ -1,0 +1,2 @@
+C:\Users\USER\source\repos\Processus_TP\Debug\Processus_TP.exe
+C:\Users\USER\source\repos\Processus_TP\Debug\Processus_TP.pdb
