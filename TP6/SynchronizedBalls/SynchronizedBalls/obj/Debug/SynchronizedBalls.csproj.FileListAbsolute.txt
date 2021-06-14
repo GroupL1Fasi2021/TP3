@@ -1,0 +1,9 @@
+E:\workspace\Project_C#\SynchronizedBalls\SynchronizedBalls\bin\Debug\SynchronizedBalls.exe
+E:\workspace\Project_C#\SynchronizedBalls\SynchronizedBalls\bin\Debug\SynchronizedBalls.pdb
+E:\workspace\Project_C#\SynchronizedBalls\SynchronizedBalls\obj\Debug\SynchronizedBalls.csprojAssemblyReference.cache
+E:\workspace\Project_C#\SynchronizedBalls\SynchronizedBalls\obj\Debug\SynchronizedBalls.Properties.Resources.resources
+E:\workspace\Project_C#\SynchronizedBalls\SynchronizedBalls\obj\Debug\SynchronizedBalls.SynchronisationTestForm.resources
+E:\workspace\Project_C#\SynchronizedBalls\SynchronizedBalls\obj\Debug\SynchronizedBalls.csproj.GenerateResource.cache
+E:\workspace\Project_C#\SynchronizedBalls\SynchronizedBalls\obj\Debug\SynchronizedBalls.csproj.CoreCompileInputs.cache
+E:\workspace\Project_C#\SynchronizedBalls\SynchronizedBalls\obj\Debug\SynchronizedBalls.exe
+E:\workspace\Project_C#\SynchronizedBalls\SynchronizedBalls\obj\Debug\SynchronizedBalls.pdb
